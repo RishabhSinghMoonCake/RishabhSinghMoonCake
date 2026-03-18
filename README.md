@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* 🎓 I’m a CSE undergrad (2nd Year, 4th Sem) at IIIT Guwahati
+* 🎓 I’m a CSE undergrad.
 * 💻 Aspiring Software Engineer
 * 🎮 Indie Game Developer (worked on large-scale mobile game projects)
 * 🌱 Currently learning and building in software development & systems
