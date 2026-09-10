@@ -6,6 +6,6 @@
 * 🌱 Currently learning and building in software development & systems
 * 👯 Open to collaborating on interesting projects (especially games & backend)
 * 💬 Ask me about C++, Unity, or anything tech
-* 🛠️ Tech: C++, C, C#, Python, Java, JavaScript, Unity 2D/3D, HTML, CSS, Node.js
+* 🛠️ Tech: C++, C, HTML, CSS, Node.js,JavaScript,C#, Python, Java, Unity 2D/3D
 * 📫 How to reach me: *[rishabhsinghmooncake@gmail.com](mailto:rishabhsinghmooncake@gmail.com)*
 * ⚡ Fun fact: I enjoy turning ideas into playable experiences 🎮
